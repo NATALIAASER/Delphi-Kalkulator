@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/30 20:24:36.000.861,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/30 20:52:34.000.068,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.dfm=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Unit1.dfm</Transaction>
+    <Transaction>2019/10/30 20:52:34.000.068,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Unit1.pas</Transaction>
+    <Transaction>2019/10/30 20:55:11.000.498,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project1.dproj=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj</Transaction>
+    <Transaction>2019/10/30 21:03:36.000.412,I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj</Transaction>
+    <Transaction>2019/10/30 21:13:03.000.985,I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj</Transaction>
+    <Transaction>2019/10/30 21:17:10.000.180,I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj</Transaction>
+    <Transaction>2019/10/31 02:25:53.000.724,G:\NATALIA\Unit1.pas=G:\DELPHI 1\Unit1.pas</Transaction>
+    <Transaction>2019/10/31 02:25:53.000.724,G:\NATALIA\Unit1.dfm=G:\DELPHI 1\Unit1.dfm</Transaction>
+    <Transaction>2019/10/31 02:26:07.000.971,G:\NATALIA\Project1.dproj=G:\DELPHI 1\Project1.dproj</Transaction>
+    <Transaction>2019/10/31 02:42:12.000.548,G:\NAT\Unit1.dfm=G:\NATALIA\Unit1.dfm</Transaction>
+    <Transaction>2019/10/31 02:42:12.000.548,G:\NAT\Unit1.pas=G:\NATALIA\Unit1.pas</Transaction>
+    <Transaction>2019/10/31 02:42:25.000.436,G:\NAT\Project1.dproj=G:\NATALIA\Project1.dproj</Transaction>
+    <Transaction>2019/10/31 12:15:51.000.191,C:\Users\HP\Desktop\NAT\Project1.dproj=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj</Transaction>
+    <Transaction>2019/10/31 12:20:01.513,I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Unit1.dfm=C:\Users\HP\Desktop\NAT\Unit1.dfm</Transaction>
+    <Transaction>2019/10/31 12:20:01.513,I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Unit1.pas=C:\Users\HP\Desktop\NAT\Unit1.pas</Transaction>
+    <Transaction>2019/10/31 12:20:09.716,I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj=I:\MATA KULIAH\SEMESTER VII\DELPHI\TUGAS DELPHI 1\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
